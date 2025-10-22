@@ -37,7 +37,7 @@ class Reset:
         return {"status": "fail"}
 
 # ---------- Telegram Bot ----------
-TOKEN = "8492222698:AAHitEup6XYzox9LThSXEpAdJCnNzkPgGf0"
+TOKEN = "7525547244:AAEaBbA5om5ghZWLLilvqxQQQVml0c805Q8"
 BOT_USERNAME = "IGBACKxBOT"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
